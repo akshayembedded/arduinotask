@@ -1,0 +1,10 @@
+#,Reference,Qty,Value,Footprint,DNP
+1,"C1, C2",2,22pF,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,
+2,D1,1,LED,LED_THT:LED_D3.0mm,
+3,J1,1,5V IN,DC Connector:CUI_PJ-002B,
+4,"R1, R2",2,10K,DC Connector:RESAD700W45L350D185,
+5,R3,1,330,DC Connector:RESAD700W45L350D185,
+6,"SW1, SW2",2,1825910-2,DC Connector:TE_1825910-2,
+7,U1,1,ATmega328-P,Package_DIP:DIP-28_W7.62mm,
+8,U2,1,LCD-016N002L,Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical,
+9,Y1,1,16MHz,Crystal:Crystal_HC18-U_Vertical,
